@@ -7,8 +7,8 @@
     <IncludeBuildOutput>true</IncludeBuildOutput>
     <Description>The MSBuild logger for Buildalyzer. Not intended to be used directly.</Description>
     <TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);PackLogger</TargetsForTfmSpecificBuildOutput>
-    <PackageId>Buildalyzer.Logger</PackageId>
-    <PackageValidationBaselineVersion>6.0.0</PackageValidationBaselineVersion>
+    <PackageId>MScottFord.Forks.Buildalyzer.Logger</PackageId>
+    <Version>9.0.0-alpha</Version>
     <OutputType>library</OutputType>
     <PackageReleaseNotes>
       <![CDATA[
